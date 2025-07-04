@@ -1,0 +1,32 @@
+html
+CopyEdit
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Affordable Web Design Services in Dubai | My Portfolio</title>
+  <meta name="description" content="Explore my professional and affordable web design services in Dubai. Specializing in responsive websites for small businesses.">
+  <meta name="keywords" content="web design Dubai, affordable web design, responsive websites, web developer portfolio">
+  <meta name="author" content="Asmath Fahima Famnaz">
+  <meta name="robots" content="index, follow">
+  <meta charset="UTF-8">
+</head>
+<body>
+  <header>
+    <h1>Affordable Web Design Services in Dubai</h1>
+    <p>Professional web design that helps your business grow online.</p>
+  </header>
+
+  <section>
+    <h2>Why Choose My Services?</h2>
+    <ul>
+      <li>Mobile-responsive designs</li>
+      <li>SEO-friendly code</li>
+      <li>Fast turnaround</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Contact: asmath@example.com</p>
+  </footer>
+</body>
+</html>
